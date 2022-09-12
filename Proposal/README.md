@@ -1,6 +1,7 @@
 ## Permasalahan
 -	Banyak mahasiswa yang tinggal di kost tidak tahu uang yang dikeluarkan untuk keperluan apa saja. Dan akan menimbulkan perilaku konsumtif
-Rancangan Solusi
+
+## Rancangan Solusi
 -	Membuat website untuk menghitung keuangan harian
 -	Ada kategori pengeluaran (makan, transport, jajan, listrik) dan pemasukan (part time, kerja, transfer)
 -	uang masuk dan uang keluar dicatat sesuai dengan kategori
