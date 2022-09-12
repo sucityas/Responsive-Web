@@ -17,10 +17,10 @@
 ## struktur data
 Atribut	| Tipe Data | Contoh
 ---|---|---
-ID	int	1
-User	string	Andi
-Nominal	int	1.000
-Kategori	string	Makan
+ID	| int	| 1
+User	| string	| Andi
+Nominal |	int	| 1.000
+Kategori	| string	| Makan
 
 ## UX WAREFRAME
 
