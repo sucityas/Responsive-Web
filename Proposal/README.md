@@ -1,3 +1,5 @@
+#My Own Money
+
 ## Permasalahan
 -	Banyak mahasiswa yang tinggal di kost tidak tahu uang yang dikeluarkan untuk keperluan apa saja. Dan akan menimbulkan perilaku konsumtif
 
