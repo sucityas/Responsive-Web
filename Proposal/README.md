@@ -20,7 +20,7 @@ User
 |Atribut|Tipe Data|Contoh|
 |--|--|--|
 |id|integer|999|
-|nama|string|Abiyya|
+|nama|string|Suci|
 |umur|integer|20|
 |pekerjaan|varchar|mahasiswa|
 
@@ -29,7 +29,7 @@ Admin
 |Atribut|Tipe Data|Contoh|
 |--|--|--|
 |id|integer|999|
-|nama|string|sharin|
+|nama|string|suci|
 |Password|varchar|001rt6|
 
 Penghasilan
