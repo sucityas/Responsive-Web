@@ -4,7 +4,7 @@
 -	Banyak mahasiswa yang tinggal di kost tidak tahu uang yang dikeluarkan untuk keperluan apa saja. Dan akan menimbulkan perilaku konsumtif
 
 ## Rancangan Solusi
--	Membuat website untuk menghitung keuangan harian dan bisa merekomendasikan cara agar uang yang dikeluarkan bisa optimal
+-	Membuat website untuk menghitung keuangan harian dan laporan keuangan bisa dicetak 
 -	Ada kategori pengeluaran (makan, transport, jajan, listrik) dan pemasukan (part time, kerja, transfer)
 -	uang masuk dan uang keluar dicatat sesuai dengan kategori
 -	memberikan presentase pengeluaran dalam kurun waktu tertentu yang bisa disimpulkan apakah pada bulan ini termasuk hemat atau boros
