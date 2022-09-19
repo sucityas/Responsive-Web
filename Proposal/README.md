@@ -40,7 +40,7 @@ Penghasilan
 |Nominal|integer|1000|
 |Keterangan|varchar|kerja|
 
-Penghasilan
+Pengeluaran
 |Atribut|Tipe Data|Contoh|
 |--|--|--|
 |id|integer|999|
