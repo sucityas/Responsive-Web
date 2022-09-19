@@ -15,12 +15,38 @@
 -	user bisa melihat uang yang dikeluarkan paling banyak pada kategori apa
 
 ## struktur data
-Atribut	| Tipe Data | Contoh
----|---|---
-ID	| int	| 1
-User	| string	| Andi
-Nominal |	int	| 1.000
-Kategori	| string	| Makan
+
+User
+|Atribut|Tipe Data|Contoh|
+|--|--|--|
+|id|integer|999|
+|nama|string|Abiyya|
+|umur|integer|20|
+|pekerjaan|varchar|mahasiswa|
+
+
+Admin
+|Atribut|Tipe Data|Contoh|
+|--|--|--|
+|id|integer|999|
+|nama|string|sharin|
+|Password|varchar|001rt6|
+
+Penghasilan
+|Atribut|Tipe Data|Contoh|
+|--|--|--|
+|id|integer|999|
+|waktu|date|08-08-2022|
+|Nominal|integer|1000|
+|Keterangan|varchar|kerja|
+
+Penghasilan
+|Atribut|Tipe Data|Contoh|
+|--|--|--|
+|id|integer|999|
+|waktu|date|08-08-2022|
+|Nominal|integer|1000|
+|Keterangan|varchar|makanan|
 
 ## UX WAREFRAME
 
