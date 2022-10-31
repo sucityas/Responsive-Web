@@ -14,7 +14,6 @@
 -	user bisa mencatat pengeluaran maupun pemasukan apa saja pada hari itu
 -	user bisa melihat jumlah pengeluaran dan penghasilan setiap hari
 -	user bisa melihat apakah data pada web dan uang di dompet balance atau tidak
--	user bisa melihat uang yang dikeluarkan paling banyak pada kategori apa
 
 ## struktur data
 
