@@ -10,10 +10,10 @@
 -	memberikan presentase pengeluaran dalam kurun waktu tertentu yang bisa disimpulkan apakah pada bulan ini termasuk hemat atau boros
 
 ## Use Case
--	user bisa menginput harta yang ada di dompet maupun e-wallet
+-	user bisa menginput jumlah harta yang dimiliki
 -	user bisa mencatat pengeluaran maupun pemasukan apa saja pada hari itu
--	user bisa melihat jumlah pengeluaran dan penghasilan setiap hari
--	user bisa melihat apakah data pada web dan uang di dompet balance atau tidak
+-	user bisa melihat jumlah pengeluaran
+-	user bisa melihat jumlah pemasukan setiap hari
 
 ## struktur data
 
