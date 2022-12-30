@@ -82,7 +82,9 @@
 - ![image](https://user-images.githubusercontent.com/82722477/210089956-ce1a4d3e-65f0-43f9-aaca-c958f60c9435.png)
  
 ### Demo : HTML Responsive Layout with Bootstrap
-- 
+- ![image](https://user-images.githubusercontent.com/82722477/210091220-ec2aeb92-f9b7-4844-b466-eeaf3de8684f.png)
+- ![image](https://user-images.githubusercontent.com/82722477/210091265-f2962851-1012-4742-90ac-6be64a6014d1.png)
+- ![image](https://user-images.githubusercontent.com/82722477/210091337-ac783e2b-9a2c-490e-bf8f-60fffd7ee884.png)
  
 ### Demo : Single Page App with React & React-router
 - ![image](https://user-images.githubusercontent.com/82722477/210090232-669f50b7-5b89-4809-8a49-fc7785bf5a0b.png)
