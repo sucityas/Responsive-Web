@@ -93,8 +93,8 @@
 -![image](https://user-images.githubusercontent.com/82722477/210091947-3ac08718-3c74-482f-b68b-ae9c0ab92d75.png)
 
 ### Demo : Deploy PHP Project to Cpanel
-- 
-- 
+- ![image](https://user-images.githubusercontent.com/82722477/210092352-dc017c2b-c239-44b1-b353-6fd84ae87d58.png)
+- ![image](https://user-images.githubusercontent.com/82722477/210092405-5f3ca195-a99d-4157-9e76-aa99e3e4ee69.png)
 
 ### Demo : News Site using Wordpress
 - 
