@@ -89,9 +89,8 @@
 ### Demo : Single Page App with React & React-router
 - ![image](https://user-images.githubusercontent.com/82722477/210090232-669f50b7-5b89-4809-8a49-fc7785bf5a0b.png)
 
-### Demo : PHP DB - Dynamic Web Page
-- 
-- 
+### Demo : PHP DB - Dynamic Web Page using Laravel
+-![image](https://user-images.githubusercontent.com/82722477/210091947-3ac08718-3c74-482f-b68b-ae9c0ab92d75.png)
 
 ### Demo : Deploy PHP Project to Cpanel
 - 
