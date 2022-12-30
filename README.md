@@ -69,31 +69,22 @@
 ### Demo : HTTP GET & POST using Form Action and Fetch API
 - ![HTTP1](https://user-images.githubusercontent.com/82722477/210089299-4c2cf6f0-e666-4a1a-833c-4eb29ffa6ac1.png)
 - ![HTTP2](https://user-images.githubusercontent.com/82722477/210089403-5b06035b-87bb-46d6-81be-cbbf01fa6925.png)
- 
+
+### Demo : PHP DB - Dynamic Web Page
+-
+
 ### Demo : PHP DB - Web Service
 - ![web Service1](https://user-images.githubusercontent.com/82722477/210089645-58b9539b-b947-4f31-a760-b0995f2ca6c5.png)
 - ![web Service2](https://user-images.githubusercontent.com/82722477/210089657-79b15b29-5908-4b43-b281-abda552acf1a.png)
 - ![web Service3](https://user-images.githubusercontent.com/82722477/210089681-c4fb2e2e-3c04-4c4b-a44d-61d98db28ead.png)
 
-### Demo : OOP-based PHP Project using Composer
-- 
+### Demo : OOP-based Express Project using NPM
+- ![image](https://user-images.githubusercontent.com/82722477/210089956-ce1a4d3e-65f0-43f9-aaca-c958f60c9435.png)
  
 ### Demo : HTML Responsive Layout with Bootstrap
 - 
  
 ### Demo : Single Page App with React & React-router
-- 
-
-### Demo : PostgreSQL / MySQL installation
-- 
-
-### Demo : DBeaver installation & DB connection
-- 
-
-### Demo : Nginx / Apache web server installation & operation
-- 
-
-### Demo : Domain registration
 - 
 
 ### Demo : PHP DB - Dynamic Web Page
