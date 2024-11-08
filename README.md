@@ -1,10 +1,3 @@
-# 2223-IF215007_8-pengembangan-aplikasi-web
-
-# Assessment Praktikum
-- NAMA : **Suciati Ayuning Tyas**
-- NIM : **1207050122**
-- KELAS PRAKTIKUM : **F**
-- KELAS TEORI : **F**
 ## [Assessments](https://github.com/insanalamin/2223-IF215007_8-pengembangan-aplikasi-web#workshop-class-1-credit)
 ### Demo : Git installation
 - ![Screenshot 2022-12-29 151855](https://user-images.githubusercontent.com/82722477/209923666-38da6566-ebc8-4b96-85c9-232cf32bea1e.png)
